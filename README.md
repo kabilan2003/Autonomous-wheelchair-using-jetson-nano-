@@ -53,11 +53,25 @@ The wheelchair's autonomous navigation system is built upon a combination of per
 
 2.ros- http://wiki.ros.org/noetic/Installation/Ubuntu
 
-3. ros navigation stack - https://github.com/kabilan2003/navigation_stack.git
+3.ros navigation stack - https://github.com/kabilan2003/navigation_stack.git
 
-4. yolo object detection for ros - https://github.com/leggedrobotics/darknet_ros.git
+4.yolo object detection for ros - https://github.com/leggedrobotics/darknet_ros.git
 
-5. 
+# working model 
+
+![WhatsApp Image 2023-07-31 at 9 26 19 PM](https://github.com/kabilan2003/navigation_stack/assets/109456728/d93806b2-2dca-43e1-a40d-83de2a9f35fd)
+
+# isaac ros simulation for wheelchair in hospital environment 
+
+![WhatsApp Image 2023-07-31 at 9 28 15 PM](https://github.com/kabilan2003/navigation_stack/assets/109456728/9e29ef4e-07ce-4ec0-bdf9-c6ff70239f03)
+
+# Ros gazebo simulation 
+
+![Screenshot from 2023-07-31 21-33-56](https://github.com/kabilan2003/navigation_stack/assets/109456728/c008f7f0-fc0a-42ee-8da9-96c7327c00f1)
+
+
+
+ 
 
 
 
