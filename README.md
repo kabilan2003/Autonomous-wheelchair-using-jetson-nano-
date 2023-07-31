@@ -67,12 +67,16 @@ The wheelchair's autonomous navigation system is built upon a combination of per
 
 Welcome to the ISAAC ROS Omniverse Simulation with Hospital Environment for Wheelchair project! This simulation aims to create a realistic and dynamic hospital environment in NVIDIA Omniverse to test and validate the performance of an autonomous wheelchair. The project integrates the ISAAC ROS stack and NVIDIA Omniverse platform to simulate a virtual hospital setting where the wheelchair can navigate autonomously and safely.
 
+github - https://github.com/kabilan2003/isaac_ros.git
+
 
 # Ros gazebo simulation 
 
 ![Screenshot from 2023-07-31 21-33-56](https://github.com/kabilan2003/navigation_stack/assets/109456728/c008f7f0-fc0a-42ee-8da9-96c7327c00f1)
 
 Welcome to the Gazebo Simulation for Wheelchair project! This simulation aims to create a realistic and dynamic virtual environment using Gazebo to test and develop autonomous wheelchair control algorithms. The project integrates a wheelchair model and various sensors into the Gazebo simulation environment to enable accurate perception and navigation testing.
+
+Gi
 
 # Hardware architecture
 
