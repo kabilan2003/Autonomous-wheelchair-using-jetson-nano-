@@ -88,11 +88,9 @@ This document outlines the hardware architecture for a project that combines the
 
 1. NVIDIA Jetson Nano: The Jetson Nano serves as the main processing unit and runs sophisticated AI algorithms for perception, object detection, and path planning. Its GPU capabilities enable fast and efficient deep learning computations.
 
-2. NVIDIA Jetson Nano: The Jetson Nano serves as the main processing unit and runs sophisticated AI algorithms for perception, object detection, and path planning. Its GPU capabilities enable fast and efficient deep learning computations.
+2. Webcam: The webcam is used for visual perception and object detection. It captures real-time video feed, which is then processed by the Jetson Nano to identify and track objects in the environment.
 
-3. Webcam: The webcam is used for visual perception and object detection. It captures real-time video feed, which is then processed by the Jetson Nano to identify and track objects in the environment.
-
-4. RPLIDAR Sensor: The RPLIDAR sensor is a 360-degree laser scanner that provides high-resolution 2D maps of the surrounding environment. It allows the robot to perceive obstacles and plan collision-free paths.
+3. RPLIDAR Sensor: The RPLIDAR sensor is a 360-degree laser scanner that provides high-resolution 2D maps of the surrounding environment. It allows the robot to perceive obstacles and plan collision-free paths.
 
 # Hardware Workflow
 
