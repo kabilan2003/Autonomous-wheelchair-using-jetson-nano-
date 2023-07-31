@@ -108,7 +108,7 @@ The hardware architecture combining NVIDIA Jetson Nano, Arduino, Webcam, and RPL
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Thank you for your interest in our Autonomous Wheelchair project! We hope this project inspires you to contribute to the field of assistive robotics and make a positive impact on the lives of people with mobility challenges. If you have any questions or suggestions, feel free to contact us or open an issue on GitHub.
+Thank you for your interest in our Autonomous Wheelchair project! We hope this project inspires you to contribute to the field of assistive robotics and make a positive impact on the lives of people with mobility challenges. If you have any questions or suggestions, feel free to contact us or open an issue on GitHub. 
 
 
 
